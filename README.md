@@ -80,8 +80,7 @@ Through this application all local and international patients can easily receive
 
   Url: https://play.google.com/store/apps/details?id=com.doktorunubol.byarijeet
   
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/vJSVg9W/unnamed-1.webp" alt="unnamed-1" border="0"></a>
-  
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/vJSVg9W/unnamed-1.webp" alt="unnamed-1" border="0"></a><br /><br />  
  ## 9.Living By Design 
  Living by Design (LBD) is a global network of value driven and principle-centered leaders founded on the manifold wisdom of Christ.
 The LBD app offers you access to
