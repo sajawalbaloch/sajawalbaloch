@@ -96,4 +96,4 @@ Our visioneers are Pastors Chiefo and Chinwe Ejiofobiri, whom we fondly address 
  
  Url: https://play.google.com/store/apps/details?id=com.living_byfaith 
  
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/hBCjPSg/unnamed-2.webp" alt="unnamed-2" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/hBCjPSg/unnamed-2.webp" alt="unnamed-2" border="0"></a><br /><br />
