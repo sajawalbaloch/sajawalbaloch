@@ -41,6 +41,7 @@
 ## 1.	Oqni physio well being App
  physiotherapy exercises at home and much more, App feature is: user login from social and email password with firebase auth, animations, clinics website open in webview  app,  
   Url:  https://play.google.com/store/apps/details?id=com.elabd.oqni
+  <a href="https://ibb.co/HNNRbLf"><img src="https://i.ibb.co/Xyy6Kfr/unnamed.webp" alt="unnamed" border="0"></a>
 
 ## 2.	Kampus Now
 Kampus data store in firebase. CRUD Operation with firebase ,  firestore, Google Login, facebook login ,Firebase auth
