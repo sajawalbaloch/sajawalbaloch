@@ -63,6 +63,18 @@ In this app user find the nearby airports , hotels, atms etc. use the google map
 ## 6.	BrooksRemit App 
 
 mobile wallet app , in this app money send, deposit, withdraw and request feature, Two step verification, strong auth process
+  
+  URL: https://drive.google.com/file/d/1aLx9Zo8Np-cADnWYj8HuhCacyFFHxCrw/view?usp=sharing
+
+<div class="row">
+  <div class="column">
+    <a href="https://ibb.co/SJWZkBh"><img src="https://i.ibb.co/FnNdQzS/Whats-App-Image-2022-09-27-at-10-10-09-PM.jpg" alt="Whats-App-Image-2022-09-27-at-10-10-09-PM" border="0"></a>
+  </div>
+  <div class="column">
+<a href="https://ibb.co/gv9SRWK"><img src="https://i.ibb.co/B43yC6M/Whats-App-Image-2022-09-27-at-10-09-13-PM.jpg" alt="Whats-App-Image-2022-09-27-at-10-09-13-PM" border="0"></a>  </div>
+  <div class="column">
+<a href="https://ibb.co/4FZV1MZ"><img src="https://i.ibb.co/hgRmYHR/Whats-App-Image-2022-09-27-at-10-09-15-PM.jpg" alt="Whats-App-Image-2022-09-27-at-10-09-15-PM" border="0"></a>  </div>
+</div>
 
 ## 7.	KPN Mission App
 
