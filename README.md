@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/sajawalbaloch" target="blank"><img src="https://img.shields.io/twitter/follow/Sajawalbaloch55?logo=twitter&style=for-the-badge" alt="sajawalbaloch" /></a> </p>
 
-- 🔭 I’m currently working on an **food delivery app & facebook groups app**
+- 🔭 I’m currently working on an **food delivery app & Dating App**
 
 - 🌱 I’m currently learning **IsoLates & background services.**
 
